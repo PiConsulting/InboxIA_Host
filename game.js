@@ -203,11 +203,11 @@ root.innerHTML = `
     <div class="bottom-msg">Imaginate hacer esto con 10.000 correos diarios...<br><b>¡Acercate a nuestro stand para ver si tu resultado tiene premio!</b> </div>
     <div style="margin:1.8em 0 0.3em 0; text-align:center;">
       <span style="color:var(--primary);font-weight:500;">¿Querés saber más de InboxIA?</span><br>
-      <a href="https://azuremarketplace.microsoft.com/en-us/marketplace/apps/pidata.pi-soft-inboxia?tab=overview"
+      <a href="https://piconsulting.com.ar/home/aplicaciones/inboxia/"
          target="_blank"
          rel="noopener"
          style="color:var(--accent);text-decoration:underline;font-size:1.08em;font-weight:600;">
-        Más info en Azure Marketplace
+        Visitá nuestro sitio web.
       </a>
     </div>
     <button id="restart-btn" style="margin-bottom:1.8em;margin-top:1em;">Reiniciar</button>
